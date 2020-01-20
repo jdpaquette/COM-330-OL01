@@ -1,0 +1,25 @@
+Chapter 3:
+
+1: c. a different background color on each page
+2: b. hierarchical, linear, and random
+3: b. colorful pages appeal to everyon
+4: b. perceivable, operable, understandable, robust
+5: d. wireframe
+6: d. complementary
+7: c. both a and b
+8: a. configure a single-column page layout
+9: c. use a key phrase as a hyperlink
+10: b. fluid
+
+Chapter 4:
+
+1: d. background-color
+2: d. all of the above
+3: b. inline
+4: a. selectors and declarations
+5: c. <link rel="stylesheet" href="style.css">
+6: b. .news { color: #FF0000; background-color: #EAEAEA; }
+7: b. css
+8: d. in the head section of the web page document
+9: a. body { background-color: #FFF8DC; }
+10: b. class
